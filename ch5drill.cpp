@@ -1,7 +1,3 @@
-#include "std_lib_facilities.h"
-int main()
-{
-
 //cout << "Success!\n";  //Hibás: Cout << "Success!\n";
 
 //cout << "Success!\n"; //Hibás: cout << "Success!\n;
@@ -52,4 +48,3 @@ int main()
 
 //cout << "Success!\n";
 
-}
